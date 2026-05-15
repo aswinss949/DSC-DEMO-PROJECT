@@ -2,6 +2,8 @@
 __pycache__/
 *.py[codz]
 *$py.class
+#for not accesing the data folder which is used for storing the data files
+data/ 
 
 # C extensions
 *.so
